@@ -1,0 +1,17 @@
+# Fichiers de données trop lourds
+data/*.csv
+data/*.zip
+data/**/creditcard.csv
+data/**/Credit Card Fraud Detection*
+
+# Fichiers système / IDE
+.DS_Store
+*.pyc
+__pycache__/
+
+# Environnement virtuel
+venv/
+venv_hackathon/
+
+# Notebooks avec sorties inutiles
+.ipynb_checkpoints/
