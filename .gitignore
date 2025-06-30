@@ -4,6 +4,10 @@ data/*.zip
 data/**/creditcard.csv
 data/**/Credit Card Fraud Detection*
 
+# Ne pas versionner les gros jeux de données
+Notebooks/data/processed_data.csv
+Notebooks/data/new_transactions.csv
+
 # Fichiers système / IDE
 .DS_Store
 *.pyc
